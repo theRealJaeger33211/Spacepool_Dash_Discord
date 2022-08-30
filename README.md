@@ -1,8 +1,8 @@
 # Spacepool_Dash_Discord
  Autoupdating Dashboard for Spacepool
 
- Config Overview:
-    "launcherid" : "", => Your Spacepool LauncherID
+ Config Overview:\n
+    "launcherid" : "", => Your Spacepool LauncherID\n
     "devkey" : "", => Your Developer Key from Spacepool
     "timeout" : 120000, => Timeout using MS
     "botAuthor" : "", => Discord Allowed id to manage the Bot (Chatid)
